@@ -1,6 +1,6 @@
 baseURL = 'https://dakotaraine.xyz/'
 title = 'DakotaRaine.xyz'
-theme = 'hugo-coder'
+theme = 'hugo-coder-drxyz'
 languageCode = 'en-us'
 defaultContentLanguage = 'en'
 paginate = 6
