@@ -1,0 +1,11 @@
+article header {
+  margin-top: unset !important;
+}
+
+span.tag {
+  margin: 0.3rem;
+}
+
+article ul {
+  padding-left: 60px;
+}
