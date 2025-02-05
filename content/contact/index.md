@@ -28,8 +28,4 @@ I can't hear you from there... Reach me via email or social media!
 
 [![Github](https://img.shields.io/badge/Github-%40comradedakota-%23f0f6fc?style=for-the-badge&logo=github)](https://github.com/comradedakota)<br />
 
-[![TikTok](https://img.shields.io/badge/Tiktok-%40dakotaraine_xyz-%23ff3b5c?style=for-the-badge&logo=tiktok)](https://www.tiktok.com/@dakotaraine_xyz)<br />
-
 [![Bluesky](https://img.shields.io/badge/Bluesky-%40dakotaraine-%230085ff?style=for-the-badge&logo=bluesky)](https://bsky.app/profile/dakotaraine.bsky.social)<br />
-
-[![Kolektiva](https://img.shields.io/badge/Kolektiva-%40comradedakota-%236364ff?style=for-the-badge&logo=mastodon)](https://kolektiva.social/@comradedakota)<br />
