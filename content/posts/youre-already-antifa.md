@@ -1,8 +1,8 @@
 +++ 
 draft = false
 date = 2025-10-27T16:56:37-08:00
-title = "Kill Your Masters"
-description = "You're Already 'Antifa': Start Thinking Like An Enemy Of The State"
+title = "You're Already 'Antifa': Start Thinking Like An Enemy Of The State"
+description = "A follow-up to JustSecurity's piece on the possibility of Antifa receiving an FTO designation"
 slug = "youre-already-antifa"
 authors = ["Dakota Raine"]
 tags = [
